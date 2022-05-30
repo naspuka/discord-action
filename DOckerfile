@@ -2,4 +2,4 @@
   
 FROM ubuntu:latest
 
-CMD echo [ "Hello Discord!!!" ]
+CMD echo [ "Hello Discord!!! Detect a push change" ]
